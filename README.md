@@ -3,13 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexbsec&label=Profile%20views&color=0e75b6&style=flat" alt="alexbsec" /> </p>
 
-- 🔭 I’m currently working on [Parasyte](https://github.com/alexbsec/parasyte)
+- 🔭 I’m currently working on [Super Mario Bros](https://github.com/alexbsec/super-mario)
 
-- 🌱 I’m currently learning **Assembly**
+- 🌱 I’m currently learning **OpenGL and Shaders**
 
 - 🤝 I’m looking for help with [Parasyte](https://github.com/alexbsec/parasyte)
-
-- 📝 I regularly write articles on [https://alexbsec.github.io](https://alexbsec.github.io)
 
 - 📫 How to reach me **buschinellijoao@gmail.com**
 
