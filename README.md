@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm João Buschinelli</h1>
-<h3 align="center">Cybersecurity researcher and pentester</h3>
+<h3 align="center">Cybersecurity & Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexbsec&label=Profile%20views&color=0e75b6&style=flat" alt="alexbsec" /> </p>
 
