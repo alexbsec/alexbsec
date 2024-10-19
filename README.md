@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Super Mario Bros](https://github.com/alexbsec/super-mario)
 
-- 🌱 I’m currently learning **OpenGL and Shaders**
+- 🌱 I’m currently learning **Embedded systems**
 
 - 🤝 I’m looking for help with [Parasyte](https://github.com/alexbsec/parasyte)
 
