@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Flecha](https://github.com/alexbsec/flecha)
 
-- 🌱 I’m currently learning **Phoenix and Elixir**
+- 🌱 I’m currently learning **Vulkan, OpenGL and CUDA**
 
 - 🤝 I’m looking for help with [Flecha](https://github.com/alexbsec/parasyte)
 
