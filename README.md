@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexbsec&label=Profile%20views&color=0e75b6&style=flat" alt="alexbsec" /> </p>
 
-- 🔭 I’m currently working on [Flecha](https://github.com/alexbsec/flecha)
+- 🔭 I’m currently working on [Flatearht Engine](https://github.com/alexbsec/FlatearthEngine)
 
 - 🌱 I’m currently learning **Vulkan, OpenGL and CUDA**
 
-- 🤝 I’m looking for help with [Flecha](https://github.com/alexbsec/parasyte)
+- 🤝 I’m looking for help with [Flecha](https://github.com/alexbsec/flecha)
 
 - 📫 How to reach me **buschinellijoao@gmail.com**
 
